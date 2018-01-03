@@ -10,7 +10,7 @@ title: Application
 
  * **Click [Report](http://juyeonheo12.github.io/Team5_Report.pdf) to see the report
  
- * **Click [PPT] to see the presentation file
+ * **Click [PPT](http://juyeonheo12.github.io/Team5_PPT.pdf) to see the presentation file
 
 ## mHealth app for panic disorder
 
