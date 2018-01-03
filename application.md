@@ -18,4 +18,4 @@ title: Application
 
  * Working with exchange students from 4 countries and evaluating and giving feedback to the each apps. Having a meeting every week and studying UX and health app.
  
- * **Click [Report] to see the report
+ * **Click [Report](http://juyeonheo12.github.io/panic disorder report.pdf) to see the report
