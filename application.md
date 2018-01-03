@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Application
-subtitle: Why you'd want to go on a date with me
+
 ---
 
 ## Application of AI in real business case – Industry-university project
