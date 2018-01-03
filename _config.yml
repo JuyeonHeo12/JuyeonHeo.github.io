@@ -23,7 +23,7 @@ description: A virtual proof that name is awesome!
 
 # List of links in the navigation bar
 navbar-links:
-  
+  main: "https://juyeonheo12.github.io/"
   AI Researchs:
     - machine learning: "machine learning"
     - Deep learning: "deep learning"
