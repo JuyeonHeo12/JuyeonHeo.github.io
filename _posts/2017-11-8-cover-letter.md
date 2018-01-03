@@ -9,6 +9,8 @@ bigimg: /img/path.jpg
 
 ## _"Why you think you'd be great for the Google AI Residency Program?"_
 
+---------------------------------------------------------
+
 ### 1.	My core values fit with Google’s philosophy.
 
  My core values to pursue is **_“Impact people’s life with technologies”_** which fits to Google’s philosophy.
