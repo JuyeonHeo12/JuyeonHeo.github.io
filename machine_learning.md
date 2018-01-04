@@ -23,4 +23,6 @@ title: machine learning
 -------------------------------------------------------------------------------------------------------------------------------
  
  **Click [Report](https://juyeonheo12.github.io/NLP_paper_juyeonheo.pdf) to see the report**
+ 
+ > Planning to submint to **DSS(Decision Support System) which is top tier journal on information systems** on mid January.
 
