@@ -2,7 +2,7 @@
 layout: post
 title: Cover Letter
 subtitle: Why you think you'd be great for the Google AI Residency Program?
-bigimg: /img/path.jpg
+bigimg: /img/ai.jpg
 ---
 
 # Cover Letter
