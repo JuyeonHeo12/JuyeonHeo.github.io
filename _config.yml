@@ -25,8 +25,8 @@ description: A virtual proof that name is awesome!
 navbar-links:
   main: "https://juyeonheo12.github.io/"
   AI Researchs:
-    - machine learning: "machine learning"
-    - Deep learning: "deep learning"
+    - machine learning: "machine_learning"
+    - Deep learning: "deep_learning"
   application: "application"
   business: "business"
   CS231n: "cs231n"
