@@ -1,7 +1,7 @@
 ---
 layout: page
 title: machine learning
-bigimg: /img/house.jpg
+
 ---
 
 ## Machine learning (NLP)
