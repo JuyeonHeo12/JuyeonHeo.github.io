@@ -20,5 +20,5 @@ title: machine learning
 
 -------------------------------------------------------------------------------------------------------------------------------
  
- **Click [Report] to see the report**
+ **Click [Report](https://juyeonheo12.github.io/NLP_paper_juyeonheo.pdf) to see the report**
 
