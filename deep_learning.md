@@ -16,4 +16,4 @@ title: deep learning
  
  ----------------------------------------------------------------------------------------------------------------------
  
- **Detail on research can't be disclosed because of confidential problem.
+ **Detail on research can't be disclosed because of confidential problem.**
