@@ -19,7 +19,7 @@ Seoul, South Korea
 
 ### *Dear Google AI Residency Program, *
 
-I am writing to apply for the position of Google AI Residency Program. I am currently working toward bachelors in 4th grade, in business and software working under the Professor Taesup Moon of information engineering. I am confident that my research interests, core values and ability make me an ideal candidate for open position.
+I am writing to apply for the position of Google AI Residency Program. Now I am dual-majoring in business administration and software and working at the lab under Professor Taesup Moon of information engineering, SKKU. I am planning to graduate in July, 2018. I am confident that my research interests, core values and ability make me an ideal candidate for open position.
 
 ### 1.	My core value fits with Google’s philosophy.
 
