@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Cover Letter
-subtitle: Why you think you'd be great for the Google AI Residency Program?
+subtitle: Why I wish to join FAIR Program?
 bigimg: /img/ai.jpg
 ---
 
 # Cover Letter
 
-## _"Why you think you'd be great for the Google AI Residency Program?"_
 
 ----------------------------------------------------------------------------------------------------
 Juyeon Heo
