@@ -10,8 +10,11 @@ bigimg: /img/ai.jpg
 
 ----------------------------------------------------------------------------------------------------
 Juyeon Heo
+
 Business, Software department 
+
 SKKU University (Sungkyunkwan)
+
 Seoul, South Korea
 
 -----------------------------------------------------------------------------------------------------
@@ -45,5 +48,8 @@ As the team leader, I led our team to win the first prize at the consulting comp
 After watching the NIPS 2017 videos, I thought I can study on two stream in machine learning. Proving the process of AI with mathematical background, and developing noble models inspired by human brain mechanism. As doctor doing the checkups before treatment, I think we should know and understand how AI works in detail. To do so, I am focusing on ‘interpretable AI’ now. I am exploring the big stream of research in machine learning by reading articles, designing the model and applying them to real case – diagnosing the pain with brain fMRI based on such as LRP, decomposition.
 
 Sincerely,
-Juyeon Heo,  Heojuyeon12@gmail.com
+
+Juyeon Heo,  
+
+Heojuyeon12@gmail.com
 
