@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cover Letter
-subtitle: Why I wish to join FAIR Program?
+subtitle: Why I wish to join  Microsoft AI Residency Program?
 bigimg: /img/ai.jpg
 ---
 
