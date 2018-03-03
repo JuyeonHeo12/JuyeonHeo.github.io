@@ -19,18 +19,18 @@ Seoul, South Korea
 
 -----------------------------------------------------------------------------------------------------
 
-### Dear FAIR Program, 
+### Dear Microsoft AI Residency Program, 
 
-I am writing to apply for the position of FAIR Program. Now I am dual-majoring in business administration and software and working at the lab under Professor Taesup Moon of information engineering, SKKU. I am planning to graduate in July, 2018. I am confident that my research interests, core values and ability make me an ideal candidate for open position.
+I am writing to apply for the position of Microsoft AI Residency Program. Now I am dual-majoring in business administration and software and working at the lab under Professor Taesup Moon of information engineering, SKKU. I am planning to graduate in July, 2018. I am confident that my research interests, core values and ability make me an ideal candidate for open position. 
 
-### 1. I wish to join the FAIR program to realize my core value.
+### 1. I wish to join the Microsoft AI Residency Program to realize my core value.
 
- My core value is **_“Change daily lives with new technologies”_** and I think FAIR is the best place to realize my value.
+ My core value is **_“Change daily lives with new technologies”_** and I think  Microsoft AI Residency Program is the best place to realize my value.
 I want to change the way people live. It makes me thrilled to see the changes of how people do and feel when using what I made. That’s why I decided to specialize in business at university. In the idea contest on Fin-tech held by Hyundai-card, I designed the business model that users can use the interest on cards in mobile gift market and game to make them enjoy its high interest rate. When it applied in the real business model and I was vibrated with joy to see how it changed users’ behavior and read the reviews and feedbacks from the users. However, I found this would be better when combined with technologies while I was suggesting the business ideas on products or services. It would be better to understand each customer’s need based on accumulated information to provide customized services. Thus, I selected dual major in computer science to develop the front line of technology which can impact lives of each people. On research, I wrote the paper suggesting new methods about sentiment analysis in Korean with machine learning which would find the needs of customer from online reviews. During the writing an article, I found researching on machine learning was interesting because I could feel its rapid growth like a child’s. It was attractive to join in developing the front line technologies which impacts daily lives a lot. That’s why I wanted to study on AI more deeply, and I got into the research lab specific to deep learning. Now, I am studying models for making accurate diagnosis of the degree of pain with fMRI using CNN model. I am focusing on making them interpretable to understand which brain parts impacts the differences of results.
-I thought FAIR is the best place to study the front line of deep learning. In addition, I believe that the program will influence lots of people with scalable applications based on plentiful resources. By sharing noble ideas on technologies and developing them with people from various fields, the program would be helpful for me to decide my future plan on research and to have appropriate attitude as a researcher. I expect the greater synergy effect would be created because FAIR and I pursue the similar goal: Give people better way to live with new technologies.
+I thought  Microsoft AI Residency Program is the best place to study the front line of deep learning. In addition, I believe that the program will influence lots of people with scalable applications based on plentiful resources. By sharing noble ideas on technologies and developing them with people from various fields, the program would be helpful for me to decide my future plan on research and to have appropriate attitude as a researcher. I expect the greater synergy effect would be created because  Microsoft AI Residency Program and I pursue the similar goal: Give people better way to live with new technologies.
  
 
-### 2. I have the ability to research AI and contribute to FAIR program
+### 2. I have the ability to research AI and contribute to  Microsoft AI Residency Program
 
 #### (1)	Experience on research about machine learning and deep learning
 
